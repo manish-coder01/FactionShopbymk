@@ -1,0 +1,71 @@
+.charcter_shop_row
+{
+    border-top: 1px solid rgb(105, 105, 109);
+    padding: 10px;
+}
+.offbrand
+{
+    width: 100%;
+    padding-top: 25px;
+    border-radius: 5px;
+}
+.charcter_shop
+{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;    
+    height: 150px;
+
+}
+.headphoneimg
+{
+    width: 80%;
+    border-radius: 7px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;    
+    height: 170px;
+}
+.type_of_product
+{
+  font-size: 25px;
+  text-align: center;
+  font-style: oblique;
+  padding-top: 10px;
+}
+.offer
+{
+    text-align: center; 
+    color: blueviolet;
+    padding-bottom: 10px;
+}
+.spotlight_heading_row
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.typepruduct
+{
+    text-align: center;
+    color: black;
+    margin-bottom: 0px;
+}
+.pricerang
+{
+    text-align: center;
+    color: brown;
+}
+a{
+    text-decoration: none;
+}
+.latest_product
+{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+@media screen and (max-width: 770px) {
+    .headphoneimg
+    {
+        margin-left: 40px;
+    }
+  }
